@@ -1,5 +1,3 @@
-Name: Divya Darshi
-Student ID: 1002090905
 CSE - 6363 - Assignment 1
 
 Language: Python3 
